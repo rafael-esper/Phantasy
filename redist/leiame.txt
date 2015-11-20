@@ -1,0 +1,86 @@
+PHANTASY STAR EXTENDED v1.00
+============================
+
+COMO JOGAR
+-----------
+
+1. Controles:
+
+	<Enter> -> Botão de ação
+	<Shift> -> Botão de menu
+	<Esc> -> Botão de cancelar
+
+2. Executando o jogo:
+
+Você precisa ter instalada a Java Runtime Envinronment (JRE). 
+Clique duas vezes no arquivo .jar ou rode o seguinte comando em linha de comando:
+
+	java -jar Phantasy.jar
+
+
+VERSÃO 
+-------
+Este é o remake do jogo Phantasy Star original, lançado pela Sega no Master System em 1986.
+
+Trabalhei sozinho neste projeto, mas alguns recursos, como as músicas VGM e as animações dos monstros, foram 
+extraídas por outras pessoas, e eu dou o crédito devido a eles nos créditos apresentados dentro do jogo. 
+
+Por favor, envie um e-mail com o seu feedback, sugestões ou perguntas.
+
+					---- Rafael, the Esper (rfpereira3 arroba gmail.com)
+
+MODIFICAÇÕES
+------------
+- Movimento diagonal
+- Melhor interface de menus e jogo em geral
+- Lista individual de itens
+- Lista separada com itens importantes (Quest)
+- Mostra quais inimigos o jogador já encontrou
+- Possibilidade de mudar a ordem do grupo
+- Voar para qualquer cidade já visitada no planeta
+- Batalha mostra todos os inimigos na tela
+- Batalha com monstros diferentes entre si
+- A maioria dos monstros aparece agora em apenas um planeta
+- 16 novos monstros + 3 do PSIV
+- Alguns monstros possuem resistência ao fogo (e.g. red slime, dragão vermelho, giant fly...)
+- Quem possuir o maior atributo Mental, infligirá mais dano mágico ao seu oponente
+- Novo sistema de níveis
+- As lojas de Abion estão inicialmente fechadas
+- O grupo ganha informação sobre as armadilhas após cair nelas
+- Abertura de portas usando apenas um botão
+- Embarque e desembarque de veículos com apenas um botão
+- Quando no veículo, monstros muito fracos não aparecem (e.g. sworms, wing eyes)
+- Algumas armas novas (mais estão planejadas na versão 'Plus')
+- Pistolas causam mais dano do que antes (Needle/Heat/Laser = 9/16/25 contra 5/10/20).
+- Odin/Tylon está mais forte do que antes
+- Attaques críticos dependendo do atributo Força do personagem
+- Conceito de Classe do personagem (e.g., Alis é uma Aventureira, Odin é um guerreiro)
+- Cores alternativas dos calabouços
+- Suporte multi-idiomas (Inglês, Inglês (tradução antiga), Português, etc)
+- Os NPCs na cidade possuem novos gráficos (do PS4)
+- NPCs aparecem na cidade dezoriana de Aukba (twin city)
+- Landrover atravessa a lava, não o Hovercraft
+- Ice Digger sofre certa resistência ao perfurar o gelo
+- A tela e as cenas foram ajustadas para a resoluçaõ de 320x240 (versus a original de 256x192)
+- A opção de menu 'Procurar' foi removida (usa o botão de ação no lugar)
+- Uma nova cidade "secreta", com uma nova missão e um novo labirinto
+- Modo PS Arena. 
+- Modo "Jogue como Odin/Tylon"
+
+
+PARA AS PRÓXIMAS VERSÕES
+------------------------
+- Macros de batalhas
+- Modo 'rápido' de batalhas
+- Selecionar os inimigos-alvo para cada ataque
+- Opção "Crie seu grupo", com estória adaptada e opção de começar com um grupo de 4 a 5 personagens variados
+- Opção "Jogue como Noah/Lutz"
+- Mudanças nas missões (como Tajima ensinando a magia 'Abrir')
+- Menu de equipar com as diferenças dos atributos ao comprar um item na loja
+- Descrições dos monstros
+- Descrições das magias
+- Descrições dos itens
+- Novos itens, magias, monstros e missões (edição 'Plus')
+- Customização dos botões (tanto teclado quanto joystick)
+- Opção 'Conversar'
+- Música do Chip FM
