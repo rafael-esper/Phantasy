@@ -74,10 +74,10 @@ public class PhantasyArena {
 //					outcome = battle.battleScene(Scene.FIELDS, PSGame.getEnemy(PS1Enemy.MANEATER), 1);
 //					break;
 
-				case 7:
+				case 3:
 					outcome = battle.battleScene(Scene.FIELDS, PSGame.getEnemy(PS1Enemy.SCORPION), 2);
 					break;
-				case 8:
+				case 4:
 					outcome = battle.battleScene(Scene.FOREST, PSGame.getEnemy(PS1Enemy.WING_EYE), 5);
 					break;
 				case 9:
