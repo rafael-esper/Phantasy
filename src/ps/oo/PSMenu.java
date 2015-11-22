@@ -181,7 +181,7 @@ public class PSMenu {
 		setentitiespaused(true);
 		PSMenu.menuOff();
 		
-		if(scene == Scene.DUNGEON || scene == Scene.SCREEN || scene == Scene.BLACK) {
+		if(scene == Scene.DUNGEON || scene == Scene.SCREEN || scene == Scene.BLACK || scene == Scene.ALTAR) {
 			screen.fadeIn(25, false);
 		} else if (scene == Scene.CORRIDOR || scene == Scene.SCREEN_NOFADE) {
 			// do nothing
@@ -200,7 +200,7 @@ public class PSMenu {
 			case SHOP_HAND_VILLAGE: 	case SHOP_WEAPON_VILLAGE:	case HOSPITAL_VILLAGE:
 			case CHURCH_VILLAGE:		case RUINED_HOUSE:			case SPACESHIP:
 			case PALACE:				case VILLA:					case CITY:
-			case TITLE:					case ALTAR:					case ENDING:
+			case TITLE:					case ENDING:
 
 				instance.back = PSGame.getImage(scene);
 				instance.outcome = Outcome.FADE_HOUSE;
@@ -236,7 +236,12 @@ public class PSMenu {
 				instance.outcome = Outcome.FADE;
 				break;				
 				
-			case DUNGEON:					// instance.back already set	
+			case ALTAR:
+				instance.back = PSGame.getImage(scene);
+				instance.outcome = Outcome.FADE_DUNGEON;
+				break;
+				
+			case DUNGEON:				// instance.back already set	
 				instance.outcome = Outcome.FADE_DUNGEON;
 				break;
 			

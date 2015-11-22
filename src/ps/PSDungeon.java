@@ -590,6 +590,9 @@ public class PSDungeon {
 	}
 
 	void drawImageToScreen() {
+		if(PSMenu.instance.back == null) {
+			return;
+		}
 		PSMenu.instance.back.rectfill(0, 0, 320, 240, backColor);
 		PSMenu.instance.back.scaleblit(0, 16, 320, 208, backDungeon);
 

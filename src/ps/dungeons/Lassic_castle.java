@@ -90,7 +90,7 @@ public class Lassic_castle {
 			PSMenu.instance.waitAnyButton();
 			PSMenu.endScene();
 		}
-
+		
 	}
 
 	public static void stairs_1_down() {

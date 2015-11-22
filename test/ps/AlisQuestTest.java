@@ -27,7 +27,7 @@ import domain.VImage;
 public class AlisQuestTest {
 
 	boolean SAVE_ON = true;
-	String filePath = "C:\\"; 
+	String filePath = "~/temp/ps/"; 
 
 	@BeforeClass
 	public static void initStructures() {

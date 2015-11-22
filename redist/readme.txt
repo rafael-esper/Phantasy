@@ -1,4 +1,4 @@
-PHANTASY STAR EXTENDED v1.00
+PHANTASY STAR EXTENDED v1.06
 ============================
 
 HOW TO PLAY

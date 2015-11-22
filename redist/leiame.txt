@@ -1,4 +1,4 @@
-PHANTASY STAR EXTENDED v1.00
+PHANTASY STAR EXTENDED v1.06
 ============================
 
 COMO JOGAR
@@ -6,81 +6,81 @@ COMO JOGAR
 
 1. Controles:
 
-	<Enter> -> Botão de ação
-	<Shift> -> Botão de menu
-	<Esc> -> Botão de cancelar
+	<Enter> -> Botï¿½o de aï¿½ï¿½o
+	<Shift> -> Botï¿½o de menu
+	<Esc> -> Botï¿½o de cancelar
 
 2. Executando o jogo:
 
-Você precisa ter instalada a Java Runtime Envinronment (JRE). 
+Vocï¿½ precisa ter instalada a Java Runtime Envinronment (JRE). 
 Clique duas vezes no arquivo .jar ou rode o seguinte comando em linha de comando:
 
 	java -jar Phantasy.jar
 
 
-VERSÃO 
+VERSï¿½O 
 -------
-Este é o remake do jogo Phantasy Star original, lançado pela Sega no Master System em 1986.
+Este ï¿½ o remake do jogo Phantasy Star original, lanï¿½ado pela Sega no Master System em 1986.
 
-Trabalhei sozinho neste projeto, mas alguns recursos, como as músicas VGM e as animações dos monstros, foram 
-extraídas por outras pessoas, e eu dou o crédito devido a eles nos créditos apresentados dentro do jogo. 
+Trabalhei sozinho neste projeto, mas alguns recursos, como as mï¿½sicas VGM e as animaï¿½ï¿½es dos monstros, foram 
+extraï¿½das por outras pessoas, e eu dou o crï¿½dito devido a eles nos crï¿½ditos apresentados dentro do jogo. 
 
-Por favor, envie um e-mail com o seu feedback, sugestões ou perguntas.
+Por favor, envie um e-mail com o seu feedback, sugestï¿½es ou perguntas.
 
 					---- Rafael, the Esper (rfpereira3 arroba gmail.com)
 
-MODIFICAÇÕES
+MODIFICAï¿½ï¿½ES
 ------------
 - Movimento diagonal
 - Melhor interface de menus e jogo em geral
 - Lista individual de itens
 - Lista separada com itens importantes (Quest)
-- Mostra quais inimigos o jogador já encontrou
+- Mostra quais inimigos o jogador jï¿½ encontrou
 - Possibilidade de mudar a ordem do grupo
-- Voar para qualquer cidade já visitada no planeta
+- Voar para qualquer cidade jï¿½ visitada no planeta
 - Batalha mostra todos os inimigos na tela
 - Batalha com monstros diferentes entre si
 - A maioria dos monstros aparece agora em apenas um planeta
 - 16 novos monstros + 3 do PSIV
-- Alguns monstros possuem resistência ao fogo (e.g. red slime, dragão vermelho, giant fly...)
-- Quem possuir o maior atributo Mental, infligirá mais dano mágico ao seu oponente
-- Novo sistema de níveis
-- As lojas de Abion estão inicialmente fechadas
-- O grupo ganha informação sobre as armadilhas após cair nelas
-- Abertura de portas usando apenas um botão
-- Embarque e desembarque de veículos com apenas um botão
-- Quando no veículo, monstros muito fracos não aparecem (e.g. sworms, wing eyes)
-- Algumas armas novas (mais estão planejadas na versão 'Plus')
+- Alguns monstros possuem resistï¿½ncia ao fogo (e.g. red slime, dragï¿½o vermelho, giant fly...)
+- Quem possuir o maior atributo Mental, infligirï¿½ mais dano mï¿½gico ao seu oponente
+- Novo sistema de nï¿½veis
+- As lojas de Abion estï¿½o inicialmente fechadas
+- O grupo ganha informaï¿½ï¿½o sobre as armadilhas apï¿½s cair nelas
+- Abertura de portas usando apenas um botï¿½o
+- Embarque e desembarque de veï¿½culos com apenas um botï¿½o
+- Quando no veï¿½culo, monstros muito fracos nï¿½o aparecem (e.g. sworms, wing eyes)
+- Algumas armas novas (mais estï¿½o planejadas na versï¿½o 'Plus')
 - Pistolas causam mais dano do que antes (Needle/Heat/Laser = 9/16/25 contra 5/10/20).
-- Odin/Tylon está mais forte do que antes
-- Attaques críticos dependendo do atributo Força do personagem
-- Conceito de Classe do personagem (e.g., Alis é uma Aventureira, Odin é um guerreiro)
-- Cores alternativas dos calabouços
-- Suporte multi-idiomas (Inglês, Inglês (tradução antiga), Português, etc)
-- Os NPCs na cidade possuem novos gráficos (do PS4)
+- Odin/Tylon estï¿½ mais forte do que antes
+- Attaques crï¿½ticos dependendo do atributo Forï¿½a do personagem
+- Conceito de Classe do personagem (e.g., Alis ï¿½ uma Aventureira, Odin ï¿½ um guerreiro)
+- Cores alternativas dos calabouï¿½os
+- Suporte multi-idiomas (Inglï¿½s, Inglï¿½s (traduï¿½ï¿½o antiga), Portuguï¿½s, etc)
+- Os NPCs na cidade possuem novos grï¿½ficos (do PS4)
 - NPCs aparecem na cidade dezoriana de Aukba (twin city)
-- Landrover atravessa a lava, não o Hovercraft
-- Ice Digger sofre certa resistência ao perfurar o gelo
-- A tela e as cenas foram ajustadas para a resoluçaõ de 320x240 (versus a original de 256x192)
-- A opção de menu 'Procurar' foi removida (usa o botão de ação no lugar)
-- Uma nova cidade "secreta", com uma nova missão e um novo labirinto
+- Landrover atravessa a lava, nï¿½o o Hovercraft
+- Ice Digger sofre certa resistï¿½ncia ao perfurar o gelo
+- A tela e as cenas foram ajustadas para a resoluï¿½aï¿½ de 320x240 (versus a original de 256x192)
+- A opï¿½ï¿½o de menu 'Procurar' foi removida (usa o botï¿½o de aï¿½ï¿½o no lugar)
+- Uma nova cidade "secreta", com uma nova missï¿½o e um novo labirinto
 - Modo PS Arena. 
 - Modo "Jogue como Odin/Tylon"
 
 
-PARA AS PRÓXIMAS VERSÕES
+PARA AS PRï¿½XIMAS VERSï¿½ES
 ------------------------
 - Macros de batalhas
-- Modo 'rápido' de batalhas
+- Modo 'rï¿½pido' de batalhas
 - Selecionar os inimigos-alvo para cada ataque
-- Opção "Crie seu grupo", com estória adaptada e opção de começar com um grupo de 4 a 5 personagens variados
-- Opção "Jogue como Noah/Lutz"
-- Mudanças nas missões (como Tajima ensinando a magia 'Abrir')
-- Menu de equipar com as diferenças dos atributos ao comprar um item na loja
-- Descrições dos monstros
-- Descrições das magias
-- Descrições dos itens
-- Novos itens, magias, monstros e missões (edição 'Plus')
-- Customização dos botões (tanto teclado quanto joystick)
-- Opção 'Conversar'
-- Música do Chip FM
+- Opï¿½ï¿½o "Crie seu grupo", com estï¿½ria adaptada e opï¿½ï¿½o de comeï¿½ar com um grupo de 4 a 5 personagens variados
+- Opï¿½ï¿½o "Jogue como Noah/Lutz"
+- Mudanï¿½as nas missï¿½es (como Tajima ensinando a magia 'Abrir')
+- Menu de equipar com as diferenï¿½as dos atributos ao comprar um item na loja
+- Descriï¿½ï¿½es dos monstros
+- Descriï¿½ï¿½es das magias
+- Descriï¿½ï¿½es dos itens
+- Novos itens, magias, monstros e missï¿½es (ediï¿½ï¿½o 'Plus')
+- Customizaï¿½ï¿½o dos botï¿½es (tanto teclado quanto joystick)
+- Opï¿½ï¿½o 'Conversar'
+- Mï¿½sica do Chip FM
